@@ -1,4 +1,4 @@
-# multi-tier-docker - IT18165876   Nitharshana.M
+# multi-tier-docker - IT18134940   Sittampalam.H
 
 
 ## Prerequirements
@@ -6,5 +6,5 @@
 * VS Code [optional]
 * Docker Extension for VS Code [optional]
 
-# Command to run the project
-*  docker-compose up --build
+# useful commands
+*  docker-compose up --build - run project
