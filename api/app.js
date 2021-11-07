@@ -19,7 +19,7 @@ const PORT = 5000;
 // app.use(bodyParser.urlencoded({ extended: true }));
 
 app.get('/', (req, res) => {
-  res.json('api is working!!!');
+  res.json('api is working!!');
 });
 
 // start server
